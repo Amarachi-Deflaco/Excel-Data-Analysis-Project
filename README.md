@@ -62,14 +62,6 @@ Include screenshot:
 
 ---
 
-## 📁 Project Files
-
-* `data.xlsx` – Main Excel workbook
-* `dashboard.xlsx` – Dashboard sheet
-* `charts/` – Images of charts and visuals
-
----
-
 ## Skills Demonstrated
 
 * Data cleaning
