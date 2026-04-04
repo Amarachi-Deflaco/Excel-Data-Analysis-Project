@@ -1,4 +1,4 @@
-# Excel Data Analysis Project 📊
+# Sales Dashboard - Excel Data Analysis Project 📊
 
 ## 📌 Project Overview
 
